@@ -20,10 +20,10 @@ pic: ankit.jpg  #place a 100x100 picture inside /assets/images/ folder and provi
 #sidebar links
 email: gre.ankit09@gmail.com 
 phone: 9051114223, 8420493641
-#website: pradyumnac.github.io #do not add http://
-#linkedin: 'pradyumnac'
-#github: 'pradyumnac'
-#twitter: '@pradyumnacster'
+website: 
+linkedin: 
+github: 
+twitter: 
 
 
 # Tracker

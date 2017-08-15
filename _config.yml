@@ -1,6 +1,6 @@
 
-title: Resume - Pradyumna Chatterjee (FullStack Developer)
-url: 'https://pradyumnac.github.io'
+title: Resume - Ankit Aich (FullStack Developer)
+url: 'https://ankitaich09.github.io'
 baseurl: '/resume' #change it according to your repository name
 
 
@@ -27,5 +27,5 @@ twitter: '@pradyumnacster'
 
 
 # Tracker
-analytics: UA-102177899-1
+analytics: 
 #Update all the sections by editing the files inside _includes folder.

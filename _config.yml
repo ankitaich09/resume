@@ -13,17 +13,17 @@ style: styles-2
 
 
 #Profile information
-name: Pradyumna Chatterjee
-tagline: Full Stack Developer (Python & Java)
+name: Ankit Aich
+tagline: Artificial Intelligence and NLP researcher.
 pic: user.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below.
 
 #sidebar links
-email: xxxxxxxxxx.xxx@gmail.com (Please request below for contact details)
-phone: xxxx-xx-xxxx (Please request below for contact details)
-website: pradyumnac.github.io #do not add http://
-linkedin: 'pradyumnac'
-github: 'pradyumnac'
-twitter: '@pradyumnacster'
+email: gre.ankit09@gmail.com (Please request below for contact details)
+phone: 9051114223 (Please request below for contact details)
+#website: pradyumnac.github.io #do not add http://
+#linkedin: 'pradyumnac'
+#github: 'pradyumnac'
+#twitter: '@pradyumnacster'
 
 
 # Tracker

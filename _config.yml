@@ -1,5 +1,5 @@
 
-title: Resume - Ankit Aich (AI and NLP researcher)
+title: Resume - Ankit Aich (AI and ML researcher)
 url: 'https://ankitaich09.github.io'
 baseurl: '/resume' #change it according to your repository name
 
@@ -14,7 +14,7 @@ style: styles-3
 
 #Profile information
 name: Ankit Aich
-tagline: Artificial Intelligence and NLP researcher.
+tagline: AI and Machine Learning researcher.
 pic: ankit.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below.
 
 #sidebar links
@@ -26,6 +26,6 @@ github:
 twitter: 
 
 
-# Tracker
-# analytics: 
+ Tracker: UA-117348321-1
+ analytics: UA-117348321-1 
 #Update all the sections by editing the files inside _includes folder.

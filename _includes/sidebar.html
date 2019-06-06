@@ -16,7 +16,11 @@
                     {% endif %}
                     
                     {% if site.phone %}
-                    <li class="phone"><i class="fa fa-phone"></i><a href="tel:{{site.phone}}">{{site.phone}}</a></li>
+                    <li class="phone"><i class="fa fa-phone"></i><a href="tel:{{site.phone}}"><b><u>Place a Call</u></b></a></li>
+                    {% endif %}
+                  
+                    {% if site.phone %}
+                    <li class="phone"><i class="fa fa-phone"></i><a href="sms:{{site.phone}}"><b><u>Send a text</u></b></a></li>
                     {% endif %}
                     
                     

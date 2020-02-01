@@ -15,7 +15,7 @@ style: styles-3
 #Profile information
 name: Lauren Melcher
 tagline: Researcher of Applied Mathematics.
-pic: ankit.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below.
+pic: lauren.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below.
 
 #sidebar links
 email: lem3067@rit.edu 

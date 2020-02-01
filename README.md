@@ -1,6 +1,10 @@
 *Work in Progress*
 ## Description
-I am using this repository to host my resume on an online format. For a resume with contact details, please request using the "Request CV" button below
+Using this repo to host my online resume.
+
+Forked from Jekyll Themes.
+
+@ Lauren Melcher.
 
 ### Attribution
 This Jekyll CV Theme was made by Webjead.com based on the original work by Xiaoying. Checkoout Webjeda.com for some awesome Jekyll tutorials

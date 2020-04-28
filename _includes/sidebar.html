@@ -14,7 +14,10 @@
                    {% if site.email %}
                     <li class="email"><i class="fa fa-envelope"></i><a href="mailto: {{site.email}}">{{site.email}}</a></li>
                     {% endif %}
-                    
+                  
+                     {% if site.scholar %}
+                    <li class="scholar"><i class="fa fa-graduation-cap"></i><a href="{{site.scholar}}"><b><u>Google Scholar</u></b></a></li>
+                    {% endif %}
                    <!--//{% if site.phone %}
                     //<li class="phone"><i class="fa fa-phone"></i><a href="tel:{{site.phone}}"><b><u>Place a Call</u></b></a></li>
                     //{% endif %}

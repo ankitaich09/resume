@@ -28,4 +28,6 @@ twitter:
 
  Tracker: UA-117348321-1
  analytics: UA-117348321-1 
+ plugins:
+  - jekyll-seo-tag
 #Update all the sections by editing the files inside _includes folder.

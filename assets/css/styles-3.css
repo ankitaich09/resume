@@ -48,15 +48,10 @@ p {
   line-height: 1.5;
 }
 .quotation {
-   font-family: 'Homemade Apple', cursive;
-   font-size: 125%;
+   font-family: 'Bradley Hand', cursive;
+   font-size: 120%;
    display:inline-block;
-   width: 90%;
-   padding-top: 30px;
-   padding-left: 75px;
-   padding-right: 75px;
-   margin: auto;
-   float: left;
+   
 }
 .wrapper {
   background: #5BB66F;
